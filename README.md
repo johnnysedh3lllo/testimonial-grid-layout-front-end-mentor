@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-6ipMI5D7zJ)
 
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/testimonial-grid-layout-front-end-mentor/)
 
 
 ## My process
@@ -35,14 +35,15 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Grid
 - CSS Flexbox
 - Mobile-first workflow
 
 ### What I learned
-this challenge tested my knowledge of CSS positioning and with it i have been able to grasp to a much higher degree, the power in being able to use the `postion` property appropriately.
+having tried this project before, it feels good to see my knowledge of CSS Grid flourish. this challenge helped me practice what i already know of CSS Grid, so i didn't exactly learn anything new, i only reinforced what i learnt with practice.
 
 ### Continued development
-in other projects i will focus more on building websites with responsive layouts.
+in other projects i will focus more on building websites with responsive layouts and having them scale properly.
 
 ### Author
 - GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
