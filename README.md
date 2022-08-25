@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-6ipMI5D7zJ)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-layout-built-with-css-grid-and-flexbox-hpDxqcj47K)
 
 - Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/testimonial-grid-layout-front-end-mentor/)
 
